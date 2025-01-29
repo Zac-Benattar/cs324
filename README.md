@@ -5,7 +5,7 @@ Simple demo game for a graphics coursework. Didn't score well due to not knowing
 - Clone the repo into a local folder.
 - Install Node.js (https://nodejs.org/en) and npm (should be installed with nodejs), you may need to restart your terminal to use
 npm.
-- From the `rt-trainer-app` directory run the following commands in a terminal:
+- From the root directory run the following commands in a terminal:
 	- Install the required dependencies: `npm install`
 	- Run the webserver: `npx vite` 
 
